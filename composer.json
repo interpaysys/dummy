@@ -1,0 +1,7 @@
+{
+    "name": "interpay/dummy",
+    "description": "Dummy",
+    "require": {
+        "php": ">=7.4"
+    }
+}
